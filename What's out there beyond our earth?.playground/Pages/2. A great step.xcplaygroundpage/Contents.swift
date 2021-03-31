@@ -9,5 +9,4 @@ import SwiftUI
 import PlaygroundSupport
 
 var str = "Hello, playground"
-
 //: [Previous Chapter](1.%20Every%20child%20has%20a%20space%20dream!)
