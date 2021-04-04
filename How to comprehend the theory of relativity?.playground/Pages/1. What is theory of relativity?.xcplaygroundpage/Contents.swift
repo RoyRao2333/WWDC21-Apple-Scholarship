@@ -29,9 +29,13 @@ Theory of relativity is a theory of space-time and gravity, mainly proposed by A
 ![DIVIDER](Preface%20Assets/divider.png)
 
 - callout(Special relativity?):
-The special theory of relativity is based on the following basic postulates: \
-I. __The principle of special relativity__: All inertial reference systems are equal, that is, the form of physical laws is the same in any inertial reference system. This means that the laws of physics are the same for an observer who is sitting still in the laboratory and an object moving at a constant speed relative to the laboratory. \
-II. __The principle of constant speed of light__: The speed of light in vacuum is constant under any inertial reference frame, and does not change with the relative motion of the light source and the reference frame where the observer is located. The value is __299,792,458 meters per second__.
+The special theory of relativity is a new straight space-time theory that is different from Newton's view of space-time and proposed in the article _On the Electrodynamics of Moving Bodies_ published by Einstein in 1905. __Special__ means that it only applies to inertial reference systems. The starting point of this theory is two basic postulates: __The principle of special relativity__ and __the principle of constant speed of light__. The core equation of the theory is the Lorentz transformation. Special relativity predicts some new effects that Newtonian classical physics does not have. Such as time expansion, length contraction, and lateral Doppler effect. Special relativity has become one of the foundations of modern physics theories. All microscopic physical theories (such as elementary particle theory) and macroscopic gravitational theories (such as general relativity) meet the requirements of special relativity. These relativistic dynamics theories have been confirmed by many high-precision experiments.
+ 
+&nbsp;
+ 
+The special theory of relativity is based on the following basic postulates:
+- __The principle of special relativity__: All inertial reference systems are equal, that is, the form of physical laws is the same in any inertial reference system. This means that the laws of physics are the same for an observer who is sitting still in the laboratory and an object moving at a constant speed relative to the laboratory.
+- __The principle of constant speed of light__: The speed of light in vacuum is constant under any inertial reference frame, and does not change with the relative motion of the light source and the reference frame where the observer is located. The value is __299,792,458 meters per second__.
  
 ![DIVIDER](Preface%20Assets/divider.png)
 
@@ -41,7 +45,7 @@ Einstein gave the initial form of general relativity in a series of papers publi
 &nbsp;
  
 Systematically, general relativity includes the following basic postulates:
-- __The principle of general relativity__: All coordinate systems (including non-inertial systems) are equal, that is, objective and true physical laws, which should be valid in any coordinate system. For this reason, the laws of physics should be covariant under arbitrary coordinate transformation, so the principle of general relativity is also called the principle of general covariance. \
+- __The principle of general relativity__: All coordinate systems (including non-inertial systems) are equal, that is, objective and true physical laws, which should be valid in any coordinate system. For this reason, the laws of physics should be covariant under arbitrary coordinate transformation, so the principle of general relativity is also called the principle of general covariance.
 - __Einstein Field Equation__: A set of equations containing 10 equations, proposed by Einstein in 1915 in the theory of general relativity. This set of equations describes that gravity is caused by the bending of space and time produced by matter and energy. As in _Newton's law of universal gravitation_, mass is used as the source of gravity. That is, if there is mass, gravity can be produced. Einstein’s theory of relativity further pointed out that momentum and energy can be used as the source of gravity, and __Gravity field__ is interpreted as __space-time bending__. So when we know how matter and energy are distributed in space-time, we can calculate the curvature of space-time, and the result of space-time curvature is gravity.
  
 ![DIVIDER](Preface%20Assets/divider.png)
