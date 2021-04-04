@@ -2,11 +2,16 @@
 /*:
  ___
 - Important:
-This is the second chapter of my submission. Be sure you've already explored the first chapter! :) \
+This is the second chapter of my Playground. Be sure you've already explored the first chapter! :) \
 In this chapter, you'll learn some interesting things about the beautiful planet __Mars__. Let's get down to our business!
  ___
 */
-//: ### Preface
+/*:
+
+&nbsp;
+ 
+### Preface
+*/
 /*:
 - callout(Mars, what are you?):
 Mars, the fourth closest planet to the sun and the second smallest planet in the solar system after Mercury, is one of the four terrestrial planets in the solar system. Mars is the god of war in Roman mythology, and in English we often called it _the red planet_. In ancient Chinese, it was called "phosphor" because it was like fire, and its position and brightness often changed so confusingly that people could not predict it. \

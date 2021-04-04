@@ -2,15 +2,50 @@
 /*:
  ___
 - Important:
-This is the first chapter of my submission. Please enjoy! :)
+This is the first chapter of my Playground. Please enjoy! :)
  ___
 */
 /*:
-I believe we all dreamed about space when we were kids. The universe is just so marvellous that I can't stop thinking about it whenever my mind flies away. Have you ever wondered that what's out there in the space? Do you believe that there are other forms of life besides ourselves? Let's find out!
+
+&nbsp;
+ 
+### Preface
 */
+/*:
+I believe we've all heard of __the theory of relativity__, but what is it anyway? \
+Back when I was in high school, my physics teacher was a big fan of Einstein and he would always talk about him whenever he got the chance. So what does __the heory of relativity__ have to do with this great man? Just hear me out!
+ 
+![DIVIDER](Preface%20Assets/divider.png)
+*/
+/*:
+- callout(Einstein and his Theory of relativity):
+Born on March 14, 1879, in Ulm, Germany, Einstein was an introverted, bookish child who showed an interest and talent for science at an early age. In 1902, Einstein found a job as a clerk at the Swiss Patent Office in Bern, and still, he can do his own theoretical physics research in his spare time. It was there that Einstein laid the cornerstone of his theory of relativity. \
+Theory of relativity is a theory of space-time and gravity, mainly proposed by Albert Einstein. It can be divided into special relativity and general relativity, depending on the subjects studied.  Einstein's theory of relativity greatly changed the law of motion and later replaced Newton's law of universal gravitation. It promoted leaps and bounds in physics, and it was also a huge leap for humankind.
+ 
+&nbsp;
+ 
+- Note: The theory of relativity is Einstein's amendment to the Newtonian mechanics system, not a substitute. That is to say, Newton’s mechanics is not wrong, but its scope of application is limited. It can only be used under low-speed macroscopic conditions, and Newton’s mechanics is not accurate when the object is moving close to the speed of light. Then we have to use relativistic mechanics to correct it. So we can say that Newtonian mechanics is a special case of relativistic mechanics when the speed is much lower than the speed of light.
+ 
+![DIVIDER](Preface%20Assets/divider.png)
 
+- callout(Special relativity?):
+The special theory of relativity is based on the following basic postulates: \
+I. __The principle of special relativity__: All inertial reference systems are equal, that is, the form of physical laws is the same in any inertial reference system. This means that the laws of physics are the same for an observer who is sitting still in the laboratory and an object moving at a constant speed relative to the laboratory. \
+II. __The principle of constant speed of light__: The speed of light in vacuum is constant under any inertial reference frame, and does not change with the relative motion of the light source and the reference frame where the observer is located. The value is __299,792,458 meters per second__.
+ 
+![DIVIDER](Preface%20Assets/divider.png)
 
-
+- callout(General relativity?):
+Einstein gave the initial form of general relativity in a series of papers published around 1915. He first noticed the experimental fact called the equivalence principle: the gravitational mass is equal to the inertial mass. This fact can also be understood that when there is no force other than gravity, all test objects with sufficiently small mass (that is, the influence of their own mass on the gravitational field can be ignored) move in the same gravitational field in the same way. It was in this way of thinking that Einstein got his general theory of relativity.
+ 
+&nbsp;
+ 
+Systematically, general relativity includes the following basic postulates:
+- __The principle of general relativity__: All coordinate systems (including non-inertial systems) are equal, that is, objective and true physical laws, which should be valid in any coordinate system. For this reason, the laws of physics should be covariant under arbitrary coordinate transformation, so the principle of general relativity is also called the principle of general covariance. \
+- __Einstein Field Equation__: A set of equations containing 10 equations, proposed by Einstein in 1915 in the theory of general relativity. This set of equations describes that gravity is caused by the bending of space and time produced by matter and energy. As in _Newton's law of universal gravitation_, mass is used as the source of gravity. That is, if there is mass, gravity can be produced. Einstein’s theory of relativity further pointed out that momentum and energy can be used as the source of gravity, and __Gravity field__ is interpreted as __space-time bending__. So when we know how matter and energy are distributed in space-time, we can calculate the curvature of space-time, and the result of space-time curvature is gravity.
+ 
+![DIVIDER](Preface%20Assets/divider.png)
+*/
 
 
 
