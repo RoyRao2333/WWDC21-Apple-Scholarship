@@ -1,4 +1,4 @@
-//: ## ☪︎ What is theory of relativity?
+//: ## ☪︎ What is the theory of relativity?
 /*:
  ___
 - Important:
