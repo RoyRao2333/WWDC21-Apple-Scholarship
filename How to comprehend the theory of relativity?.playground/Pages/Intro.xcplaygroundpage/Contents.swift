@@ -2,7 +2,7 @@
 /*:
  ___
 - Important:
-This is the first chapter of my Playground. Please enjoy! :)
+This is the intro of my Playground. Please enjoy! :)
  ___
 */
 /*:
@@ -50,14 +50,17 @@ Systematically, general relativity includes the following basic postulates:
  
 ![DIVIDER](Preface%20Assets/divider.png)
 */
+/*:
+The theory of relativity is mainly useful in two aspects: one is high-speed motion (which is comparable to the speed of light), and the other is a strong gravitational field. \
+For example:
+- In the radiotherapy department of hospitals, most of them are equipped with a particle accelerator, which produces high-energy particles to produce isotopes for treatment or imaging.
+- The atomic clock on the satellite of the Global Positioning system (GPS) is very important for accurate positioning. The algorithm of GPS is based on the principle of constant speed of light. If the principle of constant speed of light does not hold, then the GPS will need to replace a different algorithm to locate accurately.
+- The gravitational lensing effect derived from general relativity allows astronomers to observe black holes and dark matter that does not emit electromagnetic waves, and evaluate the mass distribution in space.
+*/
+/*:
+- Experiment:
+1
+*/
 
 
-
-
-
-import Cocoa
-import SwiftUI
-import PlaygroundSupport
-
-var str = "Hello, playground"
-//: [Next Chapter](2.%20A%20great%20step)
+//: [Next Chapter](1.%20Some%20great%20examples)
