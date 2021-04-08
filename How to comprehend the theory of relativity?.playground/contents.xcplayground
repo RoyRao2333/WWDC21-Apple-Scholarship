@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='macos' display-mode='rendered' buildActiveScheme='true'>
+<playground version='6.0' target-platform='macos' display-mode='raw' buildActiveScheme='true'>
     <pages>
         <page name='Intro'/>
-        <page name='Some great examples'/>
+        <page name='Length Contraction &amp; Time Dilation'/>
     </pages>
 </playground>

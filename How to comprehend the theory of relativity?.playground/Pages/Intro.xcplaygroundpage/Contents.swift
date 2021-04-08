@@ -6,12 +6,6 @@ This is the intro of my Playground. Please enjoy! :)
  ___
 */
 /*:
-
-&nbsp;
- 
-### Preface
-*/
-/*:
 I believe we've all heard of __the theory of relativity__, but what is it anyway? \
 Back when I was in high school, my physics teacher was a big fan of Einstein and he would always talk about him whenever he got the chance. So what does __the heory of relativity__ have to do with this great man? Just hear me out!
  
@@ -57,10 +51,5 @@ For example:
 - The atomic clock on the satellite of the Global Positioning system (GPS) is very important for accurate positioning. The algorithm of GPS is based on the principle of constant speed of light. If the principle of constant speed of light does not hold, then the GPS will need to replace a different algorithm to locate accurately.
 - The gravitational lensing effect derived from general relativity allows astronomers to observe black holes and dark matter that does not emit electromagnetic waves, and evaluate the mass distribution in space.
 */
-/*:
-- Experiment:
-1
-*/
 
-
-//: [Next Chapter](1.%20Some%20great%20examples)
+//: [Next Chapter](Length%20Contraction%20&%20Time%20Dilation)
