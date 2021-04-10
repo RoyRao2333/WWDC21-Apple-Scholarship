@@ -29,7 +29,7 @@ __The special theory of relativity__ is a new straight spacetime theory that is 
  
 __The special theory of relativity__ is based on the following basic postulates:
 - __The principle of special relativity__: All inertial reference systems are equal, that is, the form of physical laws is the same in any inertial reference system. This means that the laws of physics are the same for an observer who is sitting still in the laboratory and an object moving at a constant speed relative to the laboratory.
-- __The principle of constant speed of light__: The speed of light in vacuum is constant under any inertial reference frame, and does not change with the relative motion of the light source and the reference frame where the observer is located. The value is __299,792,458 meters per second__.
+- __The principle of constant speed of light__: The speed of light in vacuum is constant under any inertial reference frame, and does not change with the relative motion of the light source and the reference frame where the observer is located. The value (_c_) is __299,792,458 meters per second__.
  
 ![DIVIDER](Preface_Assets/divider.png)
 

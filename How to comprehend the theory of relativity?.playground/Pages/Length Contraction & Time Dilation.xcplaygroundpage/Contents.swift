@@ -22,12 +22,12 @@ As the speed approaches the speed of light, this effect begins to become very ob
 This effect can be described by the following equation: \
 ![LC Equation](Preface_Assets/Chapter_I/LC_Equation.png)
  
-- __L0__ is the inherent length of the object (the length of the object in the frame of reference relative to it)
-- __L__ is the length of the object observed by the observer
-- __V__ is the relative velocity between the observer and the moving object
-- __C__ is the speed of light
+- _L0_ is the inherent length of the object (the length of the object in the frame of reference relative to it)
+- _L_ is the length of the object observed by the observer
+- _v_ is the relative velocity between the observer and the moving object
+- _c_ is the speed of light
  
-And γ(v) is the Lorentz factor, defined as: \
+And _γ(v)_ / _γ_ is the Lorentz factor, defined as: \
 ![Lorentz factor](Preface_Assets/Chapter_I/Lorentz_factor.png)
  
 &nbsp;
@@ -47,11 +47,64 @@ The activity of each particle in spacetime can be represented by a continuous cu
  
 &nbsp;
  
- - Note: In order to facilitate the representation on the plane, some of the Minkowski diagrams we normally see only have a time axis (ct) and one space axis (x).
+- Note: In order to facilitate the representation on the plane, some of the Minkowski diagrams we normally see only have a time axis (ct) and one space axis (x).
 */
 /*:
+ 
+___
+
+&nbsp;
+ 
+&nbsp;
+ 
+&nbsp;
+ 
+&nbsp;
+ 
+### Time Dilation
+*/
+/*:
+- callout(Basic concept):
+Time dilation is a physical phenomenon that for two identical clocks, one at rest and the other in motion, the observer will measure the moving clock as ticking slower than the clock that is at rest in the observer's own reference frame.
+ 
+&nbsp;
+ 
+In __Einstein's theory of relativity__, time dilation occurs in two situations:
+- In __special relativity__, all clocks moving relative to an inertial system will go slower, and this effect has been accurately proved by the __Lorentz transformation__.
+- In __general relativity__, the clock with lower potential energy in the gravitational field goes slower (known as __Gravitational time dilation__). (Not discussed in this chapter)
+ 
+&nbsp;
+ 
+In __the special theory of relativity__, the time dilation effect is reciprocal. That is, observing from any clock, the other's clock is slower (It is assumed that the mutual motion of the two is uniform and the two have no acceleration when observing each other). \
+__Gravitational time dilation__, on the other hand, is not reciprocal. Observers at a high place feel that the clock at a low place is slow, while observers at a low place feel that the clock at a high place is moving faster. The dilation and the strength of the gravitational field are related to the position of the observer.
+ 
+![DIVIDER](Preface_Assets/divider.png)
+ 
+The equation for measuring time dilation in the special theory of relativity is: \
+![TD_Equation](Preface_Assets/Chapter_I/TD_Equation.png)
+ 
+- _Δt_ is the time interval between two local events (that is, two events that occur in the same place) according to the clock of an observer. This is called __proper time__.
+- _Δt'_ is the time interval between the same two events according to the clock of another observer.
+- _v_ is the velocity at which the second clock moves relative to the first clock.
+- _c_ is the speed of light.
+ 
+And _γ_ is still the Lorentz factor, defined as: \
+![Lorentz factor](Preface_Assets/Chapter_I/Lorentz_factor.png)
+ 
+&nbsp;
+ 
+It is obvious that the clock in motion ticks slower. \
+In daily life, even the time dilation effect caused by high-speed spacecraft is too small to be detected, so it can be ignored. Time dilation is very important only when the object reaches more than 30,000 km/s (1/10 of the speed of light).
+*/
+/*:
+ 
+___
+ 
+&nbsp;
+ 
 - Experiment:
-1
+In the mini game in this chapter, you can understand at a glance what __length contraction__ and __time dilation__ are, and you can also have a certain understanding of the special theory of relativity. \
+Already itching to try? Run the code and find it out yourself!
 */
 
 import Cocoa
