@@ -2,8 +2,7 @@
 /*:
  ___
 - Important:
-__This is the third chapter of my Playground__. Be sure you've finished the previous two chapters. If so, then please go ahead and enjoy this chapter! :) \
-In this chapter, you can learn something interesting about __interstellar travel__ and some thought-provoking experiments, such as the famous __Twin Paradox__. Now go ahead!
+__This is the epilogue of my Playground__. Thank you for your patience and I wish you had a great time! :) 
  ___
 */
 
