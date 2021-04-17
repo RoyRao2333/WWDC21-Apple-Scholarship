@@ -2,7 +2,7 @@
 /*:
  ___
 - Important:
-This is the first chapter of my Playground. Be sure you've finished the __Intro__. If so, then please go ahead and enjoy this chapter! :) \
+__This is the first chapter of my Playground__. Be sure you've finished the __Intro__. If so, then please go ahead and enjoy this chapter! :) \
 In this chapter, you can learn two classic phenomena of special relativity. Go and check it out!
  ___
 */
@@ -103,6 +103,12 @@ The activity of each particle in spacetime can be represented by a continuous cu
 ___
  
 &nbsp;
+  
+&nbsp;
+  
+&nbsp;
+  
+&nbsp;
  
 - Experiment:
 In the mini game in this chapter, you can understand at a glance what __time dilation__ and __length contraction__ are, and you can also have a certain understanding of the special theory of relativity. \
@@ -115,4 +121,8 @@ import PlaygroundSupport
 
 var str = "Hello, playground"
 
-//: [Previous Chapter](Intro)
+/*:
+[Previous Chapter](Intro)
+ 
+[Next Chapter](Interstellar%20travel%20and%20more)
+*/

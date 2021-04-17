@@ -2,6 +2,7 @@
 <playground version='6.0' target-platform='macos' display-mode='raw' buildActiveScheme='true'>
     <pages>
         <page name='Intro'/>
-        <page name='Length Contraction &amp; Time Dilation'/>
+        <page name='Time Dilation &amp; Length Contraction'/>
+        <page name='Interstellar travel and more'/>
     </pages>
 </playground>

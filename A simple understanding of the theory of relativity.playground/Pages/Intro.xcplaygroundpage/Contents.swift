@@ -2,7 +2,7 @@
 /*:
  ___
 - Important:
-This is the intro of my Playground. Please enjoy! :)
+__This is the intro of my Playground__. Please enjoy! :)
  ___
 */
 /*:
@@ -52,4 +52,4 @@ For example:
 - __The gravitational lensing effect__ derived from general relativity allows astronomers to observe black holes and dark matter that does not emit electromagnetic waves, and evaluate the mass distribution in space.
 */
 
-//: [Next Chapter](Length%20Contraction%20&%20Time%20Dilation)
+//: [Next Chapter](Time%20Dilation%20&%20Length%20Contraction)
