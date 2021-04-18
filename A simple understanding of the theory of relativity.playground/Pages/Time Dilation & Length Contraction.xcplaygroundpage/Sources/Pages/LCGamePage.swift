@@ -137,7 +137,7 @@ struct LCGamePage: View {
                             .padding(.trailing, 10)
                         Text(dialogStr.rawValue)
                             .font(.system(size: 15, weight: .regular, design: .monospaced))
-                            .frame(minHeight: 50)
+                            .frame(minHeight: 80)
                             .offset(y: -50)
                     }
                     .padding(.bottom, 10)
