@@ -180,7 +180,7 @@ enum ITPhase: Int {
 
 
 enum ITDialogs: String {
-    case preface = "Let's say you're an astronaut. One day, you're going to explore a distant planet. 'it's going to be a great journey', you think, and then embark on the journey. :)"
+    case preface = "Let's say you're an astronaut. One day, you're going to explore a distant planet. \"it's going to be a great journey\", you think, and then embark on the journey. :)"
     case showPlanets = "Now we can see our earth and a lovely planet. At the same time, you and your rocket are also ready to go. We assume that the planet is 100 light-years away from the earth, and your rocket travels at 90% of the speed of light."
     case forEarth = "People on earth expect you to take 111.1 years to reach that planet. "
     case forYou = "For you inside the spacecraft, however, the time will dilate and you will reach that planet in only 48.4 years."

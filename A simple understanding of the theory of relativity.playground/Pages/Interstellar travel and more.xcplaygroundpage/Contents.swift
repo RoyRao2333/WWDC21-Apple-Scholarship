@@ -106,5 +106,5 @@ PlaygroundPage.current.setLiveView(Chapter2ViewController())
 /*:
 [Previous Chapter](Time%20Dilation%20&%20Length%20Contraction)
  
-[Epilogue](Glow%20and%20behold.)
+[Epilogue](Glow%20and%20behold)
 */
