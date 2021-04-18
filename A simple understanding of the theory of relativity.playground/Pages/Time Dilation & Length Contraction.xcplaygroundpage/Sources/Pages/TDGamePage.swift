@@ -1,5 +1,6 @@
 //
 //  TDGamePage.swift
+//  WWDC_raw
 //
 //  Created by Roy Rao on 2021/4/10.
 //
@@ -104,7 +105,7 @@ struct TDGamePage: View {
                     }
                 }
                 .frame(height: 270)
-                .offset(y: -80)
+                .offset(y: -100)
                 .padding(.trailing, bSimplified ? 100 : 20)
                 .padding(.bottom, 10)
                 
@@ -119,8 +120,9 @@ struct TDGamePage: View {
                         Text(dialogStr.rawValue)
                             .font(.system(size: 15, weight: .regular, design: .monospaced))
                             .offset(y: -50)
+                            .frame(minHeight: 100)
                     }
-                    .padding(.bottom, 30)
+                    .padding(.bottom, 10)
                     
                     VStack {
                         Image(nsImage: NSImage(named: "click")!)
@@ -141,6 +143,7 @@ struct TDGamePage: View {
             }
         }
         .contentShape(Rectangle())
+        .border(Color.green, width: 1)
         .onTapGesture {
             // MARK: actions -
             withAnimation {

@@ -1,5 +1,6 @@
 //
 //  LCGamePage.swift
+//  WWDC_raw
 //
 //  Created by Roy Rao on 2021/4/10.
 //
@@ -136,9 +137,10 @@ struct LCGamePage: View {
                             .padding(.trailing, 10)
                         Text(dialogStr.rawValue)
                             .font(.system(size: 15, weight: .regular, design: .monospaced))
+                            .frame(minHeight: 50)
                             .offset(y: -50)
                     }
-                    .padding(.bottom, 30)
+                    .padding(.bottom, 10)
                     
                     VStack {
                         Image(nsImage: NSImage(named: "click")!)
@@ -159,6 +161,7 @@ struct LCGamePage: View {
             }
         }
         .contentShape(Rectangle())
+        .border(Color.green, width: 1)
         .onTapGesture {
             // MARK: actions -
             withAnimation {

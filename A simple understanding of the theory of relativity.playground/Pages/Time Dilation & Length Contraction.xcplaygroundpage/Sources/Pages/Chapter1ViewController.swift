@@ -13,7 +13,7 @@ public struct Chapter1ViewController: View {
     
     public var body: some View {
         currentPage.present($currentPage)
-            .frame(width: 800, height: 650)
+            .frame(width: 800, height: 680)
     }
 }
 
