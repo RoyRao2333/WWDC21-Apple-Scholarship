@@ -98,9 +98,10 @@ In the mini game in this chapter, we're going to talk about __Time Dilation in s
 Run the code and take a look!
 */
 
-import Foundation
+import SwiftUI
+import PlaygroundSupport
 
-var str = "Hello, playground"
+PlaygroundPage.current.setLiveView(Chapter2ViewController())
 
 /*:
 [Previous Chapter](Time%20Dilation%20&%20Length%20Contraction)
