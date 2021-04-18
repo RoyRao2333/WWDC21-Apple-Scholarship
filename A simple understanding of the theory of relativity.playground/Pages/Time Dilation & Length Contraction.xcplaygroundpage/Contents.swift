@@ -101,11 +101,10 @@ In the mini game in this chapter, you can understand at a glance what __time dil
 Already itching to try? Run the code and find it out yourself!
 */
 
-import Cocoa
 import SwiftUI
 import PlaygroundSupport
 
-var str = "Hello, playground"
+PlaygroundPage.current.setLiveView(Chapter1ViewController())
 
 /*:
 [Intro](Intro)

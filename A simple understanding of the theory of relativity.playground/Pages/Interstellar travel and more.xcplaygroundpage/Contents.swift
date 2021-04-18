@@ -44,7 +44,7 @@ The key to solving this problem is that the traveler who goes to the space is no
 If the traveler keeps flying at a certain speed without turning, since the motion is relative, although both of them insist that the other's clock goes slower, the motion of the two is completely the same. The running time of thier clocks and the age change of the two is also the same.
  
 But when the traveler arrives on the planet and turns back, the story is different. From then on, the state of motion of both sides is not the same. Regardless of the acceleration and deceleration time of the traveler at the time of departure and arrival, it is assumed that the traveler moves in a straight direction at a certain speed before and after turning, then the state of motion of both sides is exactly the same in this period of time. \
-But when the spacecraft turns, it first slows down to zero and then accelerates back to Earth. During this period, the spacecraft experienced a state of deceleration, zero speed and acceleration. When its state of motion changes, for the earth in a stationary state, the spaceship is moving. That's why the time of travelers slows down, which is the root cause of the age gap between the two.
+But when the spacecraft turns around, it first slows down to zero and then accelerates back to Earth. During this period, the spacecraft experienced a state of deceleration, zero speed and acceleration. When its state of motion changes, for the earth in a stationary state, the spaceship is moving. That's why the time of travelers slows down, which is the root cause of the age gap between the two.
  
 &nbsp;
  
