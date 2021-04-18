@@ -75,9 +75,11 @@ The question I want to ask now is: If the spacecraft takes 120 years to get to a
  
 Some people may think: Isn't it easy? 120 years multiplied by 0.5 times the speed of light is 60 light-years. However, this statement is wrong. Because these 120 years are the time viewed on the spacecraft, that is, the proper time. It is not 120 years when you look at it in the Earth's reference system. So we have to study how long it takes based on the Earth's reference system.
  
+We can take the earth as the frame of reference, and according to the Time Dilation formula, we can get the time the earth experiences is 138.6 years. This means that the 120 years you have experienced on the spacecraft is 138.6 years for the earth. So this distance __S__ should be 138.6 years multiplied by 0.5 times the speed of light, that is, 69.3 light-years.
+ 
 &nbsp;
  
-__We will discuss it later. :)__
+Does that intriguing? :)
 */
 /*:
  
