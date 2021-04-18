@@ -115,6 +115,7 @@ struct ITGamePage: View {
             }
         }
         .contentShape(Rectangle())
+        .border(Color.green, width: 1)
         .onTapGesture {
             // MARK: actions -
             withAnimation {
